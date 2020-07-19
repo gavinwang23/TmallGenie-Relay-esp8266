@@ -1,0 +1,16 @@
+path_data:
+choosed:D:\BaiduNetdiskDownload\ESP8266+贝壳物联+天猫精灵\Firmware\NodeMCU固件(含WiFi配置)\NodeMCU固件(含WiFi配置)\nodemcu-master-13-modules-2016-04-09-04-21-48-integer.bin;0x00000;
+empty:D:\AITHINKER-ESP8266-SDK-v2.0\AITHINKER-ESP8266-SDK\project\esp_iot_sdk_v0.9.5\bin\at\user1.512.new.bin;0x01000;
+empty:D:\AITHINKER-ESP8266-SDK-v2.0\AITHINKER-ESP8266-SDK\project\esp_iot_sdk_v0.9.5\bin\blank.bin;0x3E000;
+empty:D:\AITHINKER-ESP8266-SDK-v2.0\AITHINKER-ESP8266-SDK\project\esp_iot_sdk_v0.9.5\bin\blank.bin;0x7E000;
+empty:D:\Workspace\esp_iot_sdk_v0.9.5_b1\bin\blank.bin;0x41000;
+empty:;;
+empty:D:\Workspace\Firmware Binary\Ai-thinker-IOBoard-Clould-2014-11-12 231812.bin;0x00000;
+default_path:D:\BaiduNetdiskDownload\ESP8266+贝壳物联+天猫精灵\Firmware\NodeMCU固件(含WiFi配置)\NodeMCU固件(含WiFi配置);
+COM:
+com_port:4
+baudrate:0
+ID_BIND:
+id_bind_en:0
+id_bind_addr:0x
+
